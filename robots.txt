@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+# Add: Sitemap: https://your-domain.com/sitemap.xml  (export it from Admin > Settings)
